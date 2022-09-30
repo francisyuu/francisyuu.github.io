@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v2
       - name: Run ShellCheck
         uses: ludeeus/action-shellcheck@master
-  write good check:
+  write_good_check:
     name: write_good_check
     runs-on: ubuntu-latest
     steps:
