@@ -20,7 +20,7 @@ created by francisyuu
 - \<space>p : previous tab
 - \<space>w : quick save
 - \<space>q : quick quit
-- \<space>S : quick source vimrc
+- \<space>S : s\033[31mpacequick source vimrc\033[0m
 - \<space>z : quick zoom
 - \<space>t : tagbar plug
 - \<space>T : NERDTree plug
@@ -164,6 +164,7 @@ created by francisyuu
 - kill-session -t 0 : kill session 0,alias:tmk
 ## sed
 ## awk
-example : `$awk '$1>2 && $2=="Are" {print $1,$2,$3}' log.txt `
+- example : `$awk '$1>2 && $2=="Are" {print $1,$2,$3}' log.txt `
 ## tee
 ## tldr
+##
