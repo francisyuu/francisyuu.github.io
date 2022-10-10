@@ -10,6 +10,8 @@ created by francisyuu
 - \<C-b> : move page back
 - \<C-f> : move page front
 - \<C-j> : change window size
+- \<C-i> : quick jump next,use together with YcmGoTo
+- \<C-o> : quick jump back
 - \<C-p> : CtrlP plug
 - \<C-s> : quick save
 - \<space>j : move between window
@@ -20,7 +22,7 @@ created by francisyuu
 - \<space>p : previous tab
 - \<space>w : quick save
 - \<space>q : quick quit
-- \<space>S : s\033[31mpacequick source vimrc\033[0m
+- \<space>S : quick source vimrc
 - \<space>z : quick zoom
 - \<space>t : tagbar plug
 - \<space>T : NERDTree plug
@@ -61,6 +63,9 @@ created by francisyuu
 #### easymotion
 - f : single character find
 - \<space>f : double character find
+#### youcompleteme
+- \<space>d : quick goto
+- \<space>y : symbol find,<C-j>to move, <C-c>to quit
 ***
 ## chezmoi
 - chezmoi cd
