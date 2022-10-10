@@ -41,6 +41,7 @@ created by francisyuu
 - cs"' : change surroundings from " to '
 - ds" : delete surroundings "
 - ysiw( : you surrund iw(text object) with (),iw can be vim motion or text object(see visual for more info)
+- ySs( : you surrund this line within()in a new line.
 #### nerd commenter
 - \<space>cb :=cc with both sides aligned
 - \<space>ci :=toggle comment current line or selected
