@@ -16,10 +16,8 @@ This is the personnal website of francisyuu
 ---
 ## VS Code
 ### HDL Extensions
-
 I mainly use Quartus and Vivado for FPGA developments, use VScode just for coding, so I didn't have tools installed for synthesis and timing simulation
 - [TerosHDL](https://terostechnology.github.io/terosHDLdoc/)
-
     Contains most of the Verilog/SV tools, configure it to work with vivado:
   - Tool configuration-Linter settings-Verilog/SV linter: Vivado(xvlog) 
   - Tool configuration-Vivado-Installation path-'your path'
@@ -28,7 +26,6 @@ I mainly use Quartus and Vivado for FPGA developments, use VScode just for codin
   - Vivado-Tools-Settings-Text Editor-Custom Editor: 'cmd /S /k "code -g [file name]:[line number]" ' 
     - If you use 'Code.exe [file name] -[line number]' directly, it causes the page to freeze, [solution](https://www.zhihu.com/question/544908819)
 - [Bracket Pair Colorization Toggler](https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler)
-
 - [Code alignment](https://github.com/cpmcgrath/codealignment)
 - some tutorials  
   - [vs code 进行硬件设计实用插件-语法高亮、语法检查、自动例化、Testbench生成、对齐、代码块等](https://blog.csdn.net/lum250/article/details/114662929)
@@ -49,4 +46,3 @@ I mainly use Quartus and Vivado for FPGA developments, use VScode just for codin
 - [Chinese](https://vimcdoc.netlify.app/help.html)
 ---
 ## Shell
-![](G:\D\data_files\myconfig\wave.json)
