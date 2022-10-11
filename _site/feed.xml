@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-10-11T23:43:03+08:00</updated><id>/feed.xml</id><title type="html">Your awesome title</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2022/10/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-10-11T22:42:54+08:00</published><updated>2022-10-11T22:42:54+08:00</updated><id>/jekyll/update/2022/10/11/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2022/10/11/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.2">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2022-10-12T00:04:24+08:00</updated><id>/feed.xml</id><title type="html">Francisyuu Blog</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="/jekyll/update/2022/10/11/welcome-to-jekyll.html" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2022-10-11T22:42:54+08:00</published><updated>2022-10-11T22:42:54+08:00</updated><id>/jekyll/update/2022/10/11/welcome-to-jekyll</id><content type="html" xml:base="/jekyll/update/2022/10/11/welcome-to-jekyll.html"><![CDATA[<p>You’ll find this post in your <code class="language-plaintext highlighter-rouge">_posts</code> directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run <code class="language-plaintext highlighter-rouge">jekyll serve</code>, which launches a web server and auto-regenerates your site when a file is updated.</p>
 
 <p>Jekyll requires blog post files to be named according to the following format:</p>
 
@@ -14,4 +14,300 @@
 <span class="n">print_hi</span><span class="p">(</span><span class="s1">'Tom'</span><span class="p">)</span>
 <span class="c1">#=&gt; prints 'Hi, Tom' to STDOUT.</span></code></pre></figure>
 
-<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry></feed>
+<p>Check out the <a href="https://jekyllrb.com/docs/home">Jekyll docs</a> for more info on how to get the most out of Jekyll. File all bugs/feature requests at <a href="https://github.com/jekyll/jekyll">Jekyll’s GitHub repo</a>. If you have questions, you can ask them on <a href="https://talk.jekyllrb.com/">Jekyll Talk</a>.</p>]]></content><author><name></name></author><category term="jekyll" /><category term="update" /><summary type="html"><![CDATA[You’ll find this post in your _posts directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run jekyll serve, which launches a web server and auto-regenerates your site when a file is updated.]]></summary></entry><entry><title type="html">Mainpage</title><link href="/2022/10/11/mainpage.html" rel="alternate" type="text/html" title="Mainpage" /><published>2022-10-11T00:00:00+08:00</published><updated>2022-10-11T00:00:00+08:00</updated><id>/2022/10/11/mainpage</id><content type="html" xml:base="/2022/10/11/mainpage.html"><![CDATA[<h1 id="francisyuugithubio">francisyuu.github.io</h1>
+<h2 id="introduction">Introduction</h2>
+<p>This is the personnal website of francisyuu</p>
+<h1 id="my-config">My Config</h1>
+<h2 id="some-basic-rules-">Some basic rules :</h2>
+<ul>
+  <li>Avoid using spaces in directories/paths</li>
+  <li>
+    <h2 id="use-english-whenever-possible">Use English whenever possible</h2>
+    <h2 id="windows-basic">Windows basic</h2>
+  </li>
+  <li>Key mapping: <a href="https://github.com/randyrants/sharpkeys/releases">SharpKeys</a></li>
+  <li>
+    <h2 id="screen-recording-evcapture">Screen recording: <a href="https://www.ieway.cn/evcapture.html">Evcapture</a></h2>
+    <h2 id="linux-basic">Linux basic</h2>
+  </li>
+  <li>Key mapping: <a href="https://www.bilibili.com/read/cv5156572/">Linux通用键位修改（中）-实际操作</a></li>
+  <li>
+    <h2 id="dotfiles-managment-chezmoi">Dotfiles managment: <a href="https://www.chezmoi.io/quick-start/">chezmoi</a></h2>
+    <h2 id="vs-code">VS Code</h2>
+    <h3 id="hdl-extensions">HDL Extensions</h3>
+  </li>
+</ul>
+
+<p>I mainly use Quartus and Vivado for FPGA developments, use VScode just for coding, so I didn’t have tools installed for synthesis and timing simulation</p>
+<ul>
+  <li>
+    <p><a href="https://terostechnology.github.io/terosHDLdoc/">TerosHDL</a></p>
+
+    <p>Contains most of the Verilog/SV tools, configure it to work with vivado:</p>
+    <ul>
+      <li>Tool configuration-Linter settings-Verilog/SV linter: Vivado(xvlog)</li>
+      <li>Tool configuration-Vivado-Installation path-‘your path’</li>
+      <li>Tool configuration-Vivado-Additional arguments -relax
+        <ul>
+          <li>used to avoid unnecessory error reports, see more configuration in <a href="https://docs.xilinx.com/r/en-US/ug900-vivado-logic-simulation/xelab-xvhdl-and-xvlog-xsim-Command-Options">xilinx docs</a></li>
+        </ul>
+      </li>
+      <li>Vivado-Tools-Settings-Text Editor-Custom Editor: ‘cmd /S /k “code -g [file name]:[line number]” ‘
+        <ul>
+          <li>If you use ‘Code.exe [file name] -[line number]’ directly, it causes the page to freeze, <a href="https://www.zhihu.com/question/544908819">solution</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>
+    <p><a href="https://marketplace.visualstudio.com/items?itemName=dzhavat.bracket-pair-toggler">Bracket Pair Colorization Toggler</a></p>
+  </li>
+  <li><a href="https://github.com/cpmcgrath/codealignment">Code alignment</a></li>
+  <li>some tutorials
+    <ul>
+      <li><a href="https://blog.csdn.net/lum250/article/details/114662929">vs code 进行硬件设计实用插件-语法高亮、语法检查、自动例化、Testbench生成、对齐、代码块等</a></li>
+      <li><a href="https://zhuanlan.zhihu.com/p/338497672">用VSCode编辑verilog代码、iverilog编译、自动例化、自动补全、自动格式化等常用插件</a></li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/VSCodeVim/Vim/blob/HEAD/ROADMAP.md">Vim</a></li>
+  <li>
+    <h2 id="waveform-render"><a href="https://github.com/wavedrom/wavedrom">Waveform Render</a></h2>
+    <h2 id="vim">VIM</h2>
+    <h3 id="gvim-for-windows">Gvim for Windows</h3>
+  </li>
+  <li><a href="https://zhuanlan.zhihu.com/p/242540359">Install Git</a></li>
+  <li><a href="https://blog.csdn.net/qq_42240380/article/details/122406058">Install Gvim and Vundle</a></li>
+  <li>see _vimrc for configure details</li>
+  <li><a href="https://blog.csdn.net/shell_picker/article/details/6073125">tabset</a>
+    <h3 id="vim-for-linux">vim for Linux</h3>
+  </li>
+  <li><a href="https://github.com/junegunn/vim-plug">vim-plug</a>
+    <h3 id="official-doc">Official Doc</h3>
+  </li>
+  <li><a href="https://vimdoc.sourceforge.net/htmldoc/help.html">English</a></li>
+  <li>
+    <h2 id="chinese"><a href="https://vimcdoc.netlify.app/help.html">Chinese</a></h2>
+    <h2 id="shell">Shell</h2>
+    <p><img src="G:\D\data_files\myconfig\wave.json" alt="" /></p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[francisyuu.github.io Introduction This is the personnal website of francisyuu My Config Some basic rules : Avoid using spaces in directories/paths Use English whenever possible Windows basic Key mapping: SharpKeys Screen recording: Evcapture Linux basic Key mapping: Linux通用键位修改（中）-实际操作 Dotfiles managment: chezmoi VS Code HDL Extensions I mainly use Quartus and Vivado for FPGA developments, use VScode just for coding, so I didn’t have tools installed for synthesis and timing simulation TerosHDL Contains most of the Verilog/SV tools, configure it to work with vivado: Tool configuration-Linter settings-Verilog/SV linter: Vivado(xvlog) Tool configuration-Vivado-Installation path-‘your path’ Tool configuration-Vivado-Additional arguments -relax used to avoid unnecessory error reports, see more configuration in xilinx docs Vivado-Tools-Settings-Text Editor-Custom Editor: ‘cmd /S /k “code -g [file name]:[line number]” ‘ If you use ‘Code.exe [file name] -[line number]’ directly, it causes the page to freeze, solution Bracket Pair Colorization Toggler Code alignment some tutorials vs code 进行硬件设计实用插件-语法高亮、语法检查、自动例化、Testbench生成、对齐、代码块等 用VSCode编辑verilog代码、iverilog编译、自动例化、自动补全、自动格式化等常用插件 Vim Waveform Render VIM Gvim for Windows Install Git Install Gvim and Vundle see _vimrc for configure details tabset vim for Linux vim-plug Official Doc English Chinese Shell]]></summary></entry><entry><title type="html">Qman</title><link href="/2022/10/11/qman.html" rel="alternate" type="text/html" title="Qman" /><published>2022-10-11T00:00:00+08:00</published><updated>2022-10-11T00:00:00+08:00</updated><id>/2022/10/11/qman</id><content type="html" xml:base="/2022/10/11/qman.html"><![CDATA[<h1 id="quick-key-mannual">Quick Key Mannual</h1>
+<p>created by francisyuu<br />
+***</p>
+<h2 id="vim">vim</h2>
+<h3 id="normal">normal</h3>
+<ul>
+  <li>h l k j : move the cursor</li>
+  <li>H L K J : move to the line head/line end/head line/end line</li>
+  <li>&gt; : add tab,example:&gt;10j</li>
+  <li>&lt; : delete tab,example:«</li>
+  <li>&lt;C-b&gt; : move page back</li>
+  <li>&lt;C-f&gt; : move page front</li>
+  <li>&lt;C-j&gt; : change window size</li>
+  <li>&lt;C-i&gt; : quick jump next,use together with YcmGoTo</li>
+  <li>&lt;C-o&gt; : quick jump back</li>
+  <li>&lt;C-p&gt; : CtrlP plug</li>
+  <li>&lt;C-s&gt; : quick save</li>
+  <li>&lt;space&gt;j : move between window</li>
+  <li>&lt;space&gt;- : split window</li>
+  <li>&lt;space&gt;_ : vertical split window</li>
+  <li>&lt;space&gt;c : new tab</li>
+  <li>&lt;space&gt;n : next tab</li>
+  <li>&lt;space&gt;p : previous tab</li>
+  <li>&lt;space&gt;w : quick save</li>
+  <li>&lt;space&gt;q : quick quit</li>
+  <li>&lt;space&gt;S : quick source vimrc</li>
+  <li>&lt;space&gt;z : quick zoom</li>
+  <li>&lt;space&gt;t : tagbar plug</li>
+  <li>&lt;space&gt;T : NERDTree plug</li>
+  <li>&lt;space&gt;f : easymotion plug
+    <h3 id="visual">visual</h3>
+  </li>
+  <li>i( :in () select</li>
+  <li>ib : =i(</li>
+  <li>iB : =i{</li>
+  <li>ip : in select paragraph,split by \n</li>
+  <li>is : in select sentence,split by .</li>
+  <li>iw : in select word,split by similar content</li>
+  <li>iW : in select WORD,split by space</li>
+  <li>it : in select tag</li>
+  <li>a( : include () select</li>
+  <li>~  : toggle case
+    <h3 id="plugin">plugin</h3>
+    <h4 id="surround">surround</h4>
+  </li>
+  <li>cs”’ : change surroundings from “ to ‘</li>
+  <li>ds” : delete surroundings “</li>
+  <li>ysiw( : you surrund iw(text object) with (),iw can be vim motion or text object(see visual for more info)</li>
+  <li>ySs( : you surrund this line within()in a new line.
+    <h4 id="nerd-commenter">nerd commenter</h4>
+  </li>
+  <li>&lt;space&gt;cb :=cc with both sides aligned</li>
+  <li>&lt;space&gt;ci :=toggle comment current line or selected</li>
+  <li>&lt;space&gt;cA :=Adds comment to the end of line</li>
+  <li>&lt;space&gt;ca :=Switches to the alternative set of delimiters.</li>
+  <li>&lt;space&gt;cy :=cc except that the commented line(s) are yanked first.
+    <h4 id="ctrlp">CtrlP</h4>
+  </li>
+  <li>&lt;C-f&gt; : front mode</li>
+  <li>&lt;C-b&gt; : back mode</li>
+  <li>&lt;C-d&gt; : switch to filename only search instead of full path.</li>
+  <li>&lt;C-r&gt; : switch to regexp mode.</li>
+  <li>&lt;C-j&gt; : move j</li>
+  <li>&lt;C-t&gt; : open in new tab</li>
+  <li>&lt;C-x&gt; : open in new window</li>
+  <li>&lt;C-v&gt; : open in new window vertical</li>
+  <li>&lt;C-p&gt; : search history,C-n for next
+    <h4 id="easymotion">easymotion</h4>
+  </li>
+  <li>f : single character find</li>
+  <li>&lt;space&gt;f : double character find
+    <h4 id="youcompleteme">youcompleteme</h4>
+  </li>
+  <li>&lt;space&gt;d : quick goto</li>
+  <li>&lt;space&gt;y : symbol find,<C-j>to move, <C-c>to quit
+***
+</C-c></C-j>    <h2 id="chezmoi">chezmoi</h2>
+  </li>
+  <li>chezmoi cd</li>
+  <li>chezmoi re-add</li>
+  <li>git add .</li>
+  <li>git commit</li>
+  <li>git push</li>
+  <li>chezmoi diff</li>
+  <li>chezmoi apply</li>
+  <li>chezmoi -nv apply</li>
+  <li>exit
+***
+    <h2 id="tree">tree</h2>
+  </li>
+  <li>-d : only show dir</li>
+  <li>-D : show modified time</li>
+  <li>-f : show full path</li>
+  <li>-p : show permission mode</li>
+  <li>-s : show size</li>
+  <li>-t : sort by time</li>
+  <li>-L : level depth</li>
+  <li>example: tree -DfpstL 3
+***
+    <h2 id="git">git</h2>
+  </li>
+  <li>git init</li>
+  <li>git clone [url]</li>
+  <li>git add [file/dir/.] : .means all files in current dir</li>
+  <li>git rm [file/dir] :remove file from cache and workspace
+    <ul>
+      <li>-f : force rm modified files in cache</li>
+      <li>–cached : only remove them from tracing list</li>
+      <li>-r : recursive if rm a dir</li>
+    </ul>
+  </li>
+  <li>git add [file] :</li>
+  <li>git status -s : for short output</li>
+  <li>git diff : show all diff between now and cached
+    <ul>
+      <li>[file/dir] : specify which to show</li>
+      <li>[brancha]…[branchb] ： show diff between branches/commits</li>
+      <li>–cached : show diff between cached and last commit</li>
+    </ul>
+  </li>
+  <li>git commit
+    <ul>
+      <li>[file/dir] : only commit specified files</li>
+      <li>-m : commit message without pop-up window</li>
+      <li>-a : don’t need to add modified files before commit,no use for new files</li>
+      <li>–amend : merge with last commit</li>
+    </ul>
+  </li>
+  <li>git log : show log
+    <ul>
+      <li>–oneline : short log</li>
+      <li>–graph : look like graph</li>
+      <li>–reverse : reverse output sort</li>
+      <li>–author : specify author</li>
+      <li>–before : –before={3.weeks.ago}</li>
+      <li>–after : –after={2010-04-18}</li>
+    </ul>
+  </li>
+  <li>git blame :
+    <ul>
+      <li>–date : –date=relative, change date format</li>
+      <li>–porcelain : full information</li>
+    </ul>
+  </li>
+  <li>git reset : back to HEAD,give up cached files
+    <ul>
+      <li>[branch] : back to specified branch,give up cached files and commits</li>
+      <li>–hard : DANGEROUS, back to specified branch,give up cached files and commits and delete them</li>
+    </ul>
+  </li>
+  <li>git remote
+    <ul>
+      <li>-v : show all remote repository</li>
+      <li>show [remote] : show info of specified repository</li>
+      <li>add [shortname] [url] : add remote repository</li>
+      <li>rm [name] :remove remote repository</li>
+      <li>rename [oldname] [newname] : rename remote repository</li>
+    </ul>
+  </li>
+  <li>git fetch [repo]: get repo code</li>
+  <li>git pull [repo/branch:localbranch] : git fetch and merge repo branch with localbranch</li>
+  <li>git push [repo localbranch:repobranch] : push localbranch to repo/repobranch
+    <ul>
+      <li>–force : force push</li>
+    </ul>
+  </li>
+  <li>git branch
+    <ul>
+      <li>-d delete branch</li>
+    </ul>
+  </li>
+  <li>git checkout
+    <ul>
+      <li>-b create a new branch and checkout it</li>
+    </ul>
+  </li>
+  <li>git merge [brancha branchb] : merge branches
+***
+    <h2 id="zsh">zsh</h2>
+  </li>
+  <li>&lt;C-aa&gt; : go line ahead,aa because tmux uses &lt;C-a&gt; as leader key,=&lt;C-left&gt;</li>
+  <li>&lt;C-e&gt; : go line end,=&lt;C-right&gt;</li>
+  <li>&lt;C-b&gt; : =&lt;left&gt;</li>
+  <li>&lt;C-f&gt; : =&lt;right&gt;</li>
+  <li>&lt;C-w&gt; : delete previous word</li>
+  <li>&lt;C-u&gt; : delete line</li>
+  <li>&lt;C-k&gt; : delete until line end</li>
+  <li>&lt;C-t&gt; : switch characters</li>
+  <li>&lt;C-y&gt; : paste delete cmd</li>
+  <li>&lt;C-p&gt; : previous cmd</li>
+  <li>&lt;C-l&gt; : clear screen</li>
+  <li>&lt;C-s&gt; : stop screen output</li>
+  <li>&lt;C-q&gt; : quit &lt;C-s&gt; stop</li>
+  <li>&lt;C-c&gt; : kill job</li>
+  <li>&lt;C-z&gt; : suspended job background
+    <h2 id="tmux">tmux</h2>
+  </li>
+  <li>&lt;C-a&gt;c : create tab</li>
+  <li>&lt;C-a&gt;n : next tab</li>
+  <li>&lt;C-a&gt;p : previous tab</li>
+  <li>&lt;C-a&gt;- : split window</li>
+  <li>&lt;C-a&gt;_ : vertical split window</li>
+  <li>&lt;C-a&gt;s : list sessions</li>
+  <li>&lt;C-a&gt;$ : rename session</li>
+  <li>&lt;C-a&gt;d : detach session</li>
+  <li>&lt;C-a&gt;j : swap windows</li>
+  <li>&lt;C-a&gt;<up> : resize window</up></li>
+  <li>&lt;M-j&gt; : move between windows</li>
+  <li>ls : list sessions,alias:tml</li>
+  <li>new -s name : creat new session,alias:tmn</li>
+  <li>attach -t 0 : attach session 0,alias:tma</li>
+  <li>kill-session -t 0 : kill session 0,alias:tmk
+    <h2 id="sed">sed</h2>
+    <h2 id="awk">awk</h2>
+  </li>
+  <li>example : <code class="language-plaintext highlighter-rouge">$awk '$1&gt;2 &amp;&amp; $2=="Are" {print $1,$2,$3}' log.txt </code>
+    <h2 id="tee">tee</h2>
+    <h2 id="tldr">tldr</h2>
+    <p>##</p>
+  </li>
+</ul>]]></content><author><name></name></author><summary type="html"><![CDATA[Quick Key Mannual created by francisyuu *** vim normal h l k j : move the cursor H L K J : move to the line head/line end/head line/end line &gt; : add tab,example:&gt;10j &lt; : delete tab,example:« &lt;C-b&gt; : move page back &lt;C-f&gt; : move page front &lt;C-j&gt; : change window size &lt;C-i&gt; : quick jump next,use together with YcmGoTo &lt;C-o&gt; : quick jump back &lt;C-p&gt; : CtrlP plug &lt;C-s&gt; : quick save &lt;space&gt;j : move between window &lt;space&gt;- : split window &lt;space&gt;_ : vertical split window &lt;space&gt;c : new tab &lt;space&gt;n : next tab &lt;space&gt;p : previous tab &lt;space&gt;w : quick save &lt;space&gt;q : quick quit &lt;space&gt;S : quick source vimrc &lt;space&gt;z : quick zoom &lt;space&gt;t : tagbar plug &lt;space&gt;T : NERDTree plug &lt;space&gt;f : easymotion plug visual i( :in () select ib : =i( iB : =i{ ip : in select paragraph,split by \n is : in select sentence,split by . iw : in select word,split by similar content iW : in select WORD,split by space it : in select tag a( : include () select ~ : toggle case plugin surround cs”’ : change surroundings from “ to ‘ ds” : delete surroundings “ ysiw( : you surrund iw(text object) with (),iw can be vim motion or text object(see visual for more info) ySs( : you surrund this line within()in a new line. nerd commenter &lt;space&gt;cb :=cc with both sides aligned &lt;space&gt;ci :=toggle comment current line or selected &lt;space&gt;cA :=Adds comment to the end of line &lt;space&gt;ca :=Switches to the alternative set of delimiters. &lt;space&gt;cy :=cc except that the commented line(s) are yanked first. CtrlP &lt;C-f&gt; : front mode &lt;C-b&gt; : back mode &lt;C-d&gt; : switch to filename only search instead of full path. &lt;C-r&gt; : switch to regexp mode. &lt;C-j&gt; : move j &lt;C-t&gt; : open in new tab &lt;C-x&gt; : open in new window &lt;C-v&gt; : open in new window vertical &lt;C-p&gt; : search history,C-n for next easymotion f : single character find &lt;space&gt;f : double character find youcompleteme &lt;space&gt;d : quick goto &lt;space&gt;y : symbol find,to move, to quit *** chezmoi chezmoi cd chezmoi re-add git add . git commit git push chezmoi diff chezmoi apply chezmoi -nv apply exit *** tree -d : only show dir -D : show modified time -f : show full path -p : show permission mode -s : show size -t : sort by time -L : level depth example: tree -DfpstL 3 *** git git init git clone [url] git add [file/dir/.] : .means all files in current dir git rm [file/dir] :remove file from cache and workspace -f : force rm modified files in cache –cached : only remove them from tracing list -r : recursive if rm a dir git add [file] : git status -s : for short output git diff : show all diff between now and cached [file/dir] : specify which to show [brancha]…[branchb] ： show diff between branches/commits –cached : show diff between cached and last commit git commit [file/dir] : only commit specified files -m : commit message without pop-up window -a : don’t need to add modified files before commit,no use for new files –amend : merge with last commit git log : show log –oneline : short log –graph : look like graph –reverse : reverse output sort –author : specify author –before : –before={3.weeks.ago} –after : –after={2010-04-18} git blame : –date : –date=relative, change date format –porcelain : full information git reset : back to HEAD,give up cached files [branch] : back to specified branch,give up cached files and commits –hard : DANGEROUS, back to specified branch,give up cached files and commits and delete them git remote -v : show all remote repository show [remote] : show info of specified repository add [shortname] [url] : add remote repository rm [name] :remove remote repository rename [oldname] [newname] : rename remote repository git fetch [repo]: get repo code git pull [repo/branch:localbranch] : git fetch and merge repo branch with localbranch git push [repo localbranch:repobranch] : push localbranch to repo/repobranch –force : force push git branch -d delete branch git checkout -b create a new branch and checkout it git merge [brancha branchb] : merge branches *** zsh &lt;C-aa&gt; : go line ahead,aa because tmux uses &lt;C-a&gt; as leader key,=&lt;C-left&gt; &lt;C-e&gt; : go line end,=&lt;C-right&gt; &lt;C-b&gt; : =&lt;left&gt; &lt;C-f&gt; : =&lt;right&gt; &lt;C-w&gt; : delete previous word &lt;C-u&gt; : delete line &lt;C-k&gt; : delete until line end &lt;C-t&gt; : switch characters &lt;C-y&gt; : paste delete cmd &lt;C-p&gt; : previous cmd &lt;C-l&gt; : clear screen &lt;C-s&gt; : stop screen output &lt;C-q&gt; : quit &lt;C-s&gt; stop &lt;C-c&gt; : kill job &lt;C-z&gt; : suspended job background tmux &lt;C-a&gt;c : create tab &lt;C-a&gt;n : next tab &lt;C-a&gt;p : previous tab &lt;C-a&gt;- : split window &lt;C-a&gt;_ : vertical split window &lt;C-a&gt;s : list sessions &lt;C-a&gt;$ : rename session &lt;C-a&gt;d : detach session &lt;C-a&gt;j : swap windows &lt;C-a&gt; : resize window &lt;M-j&gt; : move between windows ls : list sessions,alias:tml new -s name : creat new session,alias:tmn attach -t 0 : attach session 0,alias:tma kill-session -t 0 : kill session 0,alias:tmk sed awk example : $awk '$1&gt;2 &amp;&amp; $2=="Are" {print $1,$2,$3}' log.txt tee tldr ##]]></summary></entry></feed>
