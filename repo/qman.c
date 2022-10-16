@@ -50,7 +50,7 @@ void findman(char* mstr,char* argv[],char* endstr)
 int main(int argci,char *argv[])
 {
   argc=argci;
-  FILE *fp=fopen("/home/francisyuu/Documents/francisyuu_github_page/francisyuu.github.io/qman.md","r");
+  FILE *fp=fopen("/home/francisyuu/Documents/francisyuu_github_page/francisyuu.github.io/repo/qman.md","r");
   if(fp==NULL)printf("wrong path of qman.md\n");
   else while(1)
   {
