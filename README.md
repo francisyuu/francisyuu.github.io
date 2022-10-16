@@ -41,6 +41,7 @@ I mainly use Quartus and Vivado for FPGA developments, use VScode just for codin
 - [tabset](https://blog.csdn.net/shell_picker/article/details/6073125)
 ### vim for Linux
 - [vim-plug](https://github.com/junegunn/vim-plug)
+- [ctags](https://www.zhihu.com/question/35808196)
 ### Official Doc
 - [English](https://vimdoc.sourceforge.net/htmldoc/help.html)
 - [Chinese](https://vimcdoc.netlify.app/help.html)

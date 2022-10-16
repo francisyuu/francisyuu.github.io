@@ -136,7 +136,8 @@ created by francisyuu
   - -b create a new branch and checkout it
 - git merge [brancha branchb] : merge branches
 ***
-## zsh
+## shell
+### keymap
 - \<C-aa> : go line ahead,aa because tmux uses \<C-a> as leader key,=\<C-left>
 - \<C-e> : go line end,=\<C-right>
 - \<C-b> : =\<left>
@@ -152,6 +153,34 @@ created by francisyuu
 - \<C-q> : quit \<C-s> stop
 - \<C-c> : kill job
 - \<C-z> : suspended job background
+### script
+- $0 : Name of the script
+- $1 to $9 : Arguments to the script. $1 is the first argument and so on.
+- $@ : All the arguments
+- $# : Number of arguments
+- $? : Return code of the previous command
+- $$ : Process identification number (PID) for the current script
+- !! : Entire last command, including arguments. sudo !!
+- $_ : Last argument from the last command, equals to \<esc>.
+***
+## makefile
+- @ : do not print current command
+- \- : ignore all errors while making
+- $(var) : get var val
+- = : recursively-Expanded
+
+- := : simply-Expanded
+- ?= : conditional assignment, do assignment if the var hasn't been defined
+- += : append assignment
+- $@ : target file
+- $^ : list of all prerequisites
+- $< : the first prerequisite
+- $? : list of all prerequisites that are newer than the target
+- $% : The target member's name, if the rule's target is an archive
+- % : pattern match,matches a non-empty string called the "stem"
+- $* : The "stem" of an implicit or pattern rule
+- .PHONY : pseudo target
+***
 ## tmux
 - \<C-a>c : create tab
 - \<C-a>n : next tab
@@ -168,9 +197,16 @@ created by francisyuu
 - new -s name : creat new session,alias:tmn
 - attach -t 0 : attach session 0,alias:tma
 - kill-session -t 0 : kill session 0,alias:tmk
+***
 ## sed
+***
 ## awk
 - example : `$awk '$1>2 && $2=="Are" {print $1,$2,$3}' log.txt `
+***
 ## tee
+***
 ## tldr
+***
+## gcc
+***
 ##
