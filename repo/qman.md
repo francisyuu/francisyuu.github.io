@@ -208,5 +208,51 @@ created by francisyuu
 ## tldr
 ***
 ## gcc
+gcc x.c -E(pretreatment) ->x.i -S(compile) ->x.s -C(assembly) ->x.o -o(link) ->x(executable)
+- -D[name[=n]] : predefine name as a macro, default with definition 1
+- -include [file]
+- -I [dir] : include headfile dir
+- -L [dir] : include standard lib dir
+- -l[libx] : include static/dynamic libx
+- -f[un]signed-char : regard char as [un]signed-char
+- -ggdb : generate debug info
+- -static : disable using dynamic libs
+- -share : use dynamic libs as far as possible
+- -save-temps : save all mid files
+- -M[M/D/MD] : generate associate info (M:ignore headfile associations D:output info to .d file)
+- -pie : Produce a dynamically linked position independent executable on targets that support it. Must followed with -fpie(small mode gen shared library)/-fPIE(large mode)/-fpic(small mode gen exe)/-fPIC(largemode)
+- -v : show gcc compile info
+- -w : generate no warning info
+- -Wall : generate all warning info
+- -Werror : treat warnings as errors
+- -o [name] : output executable file 
+- -O[n] : optimize level n, 0/g for no optimization,g better
+- @[file] : use file as gcc flags
+***
+## gdb
+gdb --args ./test arg1 arg2
+
+- backtrace/bt : watch function call and args
+- break [file:n] : set breakpoint at file:line n
+- clear [n] : delete breakpoint at line n if exist
+- delete/disable/enable [n1 n2] : delete/disable/enable breakpoint n1 n2
+- finish : run until current function finished
+- info [xxx] : info of xxx
+- list/l : list 10 lines code after last list
+- list [n] : list 10 lines code from line n
+- list [function] : list function code
+- next/n : run next line
+- print/p [expr] [format]: print expr val in format(x/d/u/o/c/f)
+- ptype [var] : print var type
+- return [n]: force return n without run rest codes
+- set args [args] : set args. To watch, use show args
+- setp/s : run next step
+- set [var]=[val] : set var=val
+- start : run until main
+- shell [cmd] : run shell cmd
+- tbreak [file:n] : auto delete break point after triggered
+- until/u [n] : run until line n
+- rwatch [var] : run until read var
+- watch [var] : run until change/read var
 ***
 ##
